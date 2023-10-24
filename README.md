@@ -4,7 +4,7 @@
 ### Experiências
 
 - Trabalhei 2 anos com desenvolvimento de sistemas web
-- Trabalhei +2 anos com desenvolvimento mobile com Flutter.
+- Trabalhei 3 anos com desenvolvimento mobile com Flutter.
 <hr>
 
 ## Estatísticas
